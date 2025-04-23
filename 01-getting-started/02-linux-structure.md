@@ -15,6 +15,7 @@
 | Hardware (CPU, RAM, Disk, Network, Peripherals)   |
 +----------------------------------------------------+
 
+Kernel is the lowest level of s/w that can  interface with computer h/w
 
 (a) Hardware Layer
 
