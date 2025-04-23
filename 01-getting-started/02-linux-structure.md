@@ -21,6 +21,7 @@ Kernel is the lowest level of s/w that can  interface with computer h/w
 
 🔹 The physical components of the computer (CPU, RAM, disk, network interfaces, etc.).
 🔹 The OS interacts with hardware using device drivers.
+
 (b) Kernel (Core of Linux OS)
 
 🔹 The Linux Kernel is responsible for directly managing system resources, including:
@@ -40,6 +41,7 @@ Kernel is the lowest level of s/w that can  interface with computer h/w
 🔹 A command interpreter that allows users to interact with the kernel.
 🔹 Examples: Bash, Zsh, Fish, Dash, Ksh.
 🔹 Converts user commands into system calls for the kernel.
+
 (d) User Applications
 
 🔹 End-user programs like web browsers, text editors, DevOps tools, etc.
